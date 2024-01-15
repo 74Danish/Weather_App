@@ -1,2 +1,4 @@
 # Weather_App
-Get real-time updates accurate forecasts and personalized weather alerts tailored to your location.
+1-Collect and Analyse user sample data from different Experience Levels of the App
+2-Make Recommendations on Improvement based on Analysis.
+3-Supervise Implementations of Recommendations.
